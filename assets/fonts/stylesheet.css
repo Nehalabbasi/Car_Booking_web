@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Crawling Personal Used';
+    src: url('CrawlingPersonalUsed.eot');
+    src: url('CrawlingPersonalUsed.eot?#iefix') format('embedded-opentype'),
+        url('CrawlingPersonalUsed.woff2') format('woff2'),
+        url('CrawlingPersonalUsed.woff') format('woff'),
+        url('CrawlingPersonalUsed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
